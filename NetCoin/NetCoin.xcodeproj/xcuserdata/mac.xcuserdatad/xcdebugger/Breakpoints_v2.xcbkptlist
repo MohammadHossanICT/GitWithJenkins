@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F1CB4E11-46F1-41C7-9CD4-2883278886AB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64B1B069-5296-4C3E-B128-C73E72B221AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetCoinTests/NetworkLayer/URLProtocolMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "startLoading()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64B1B069-5296-4C3E-B128-C73E72B221AC - 8549b08b9e878eb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NetCoinTests.NetworkingMock.data(from: Foundation.URL, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSURLResponse)"
+                  moduleName = "NetCoinTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Downloads/NetCoin-main%204/NetCoinTests/NetworkLayer/URLProtocolMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "64B1B069-5296-4C3E-B128-C73E72B221AC - 8549b08b9e878ed5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NetCoinTests.NetworkingMock.data(from: Foundation.URL, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSURLResponse)"
+                  moduleName = "NetCoinTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Downloads/NetCoin-main%204/NetCoinTests/NetworkLayer/URLProtocolMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
